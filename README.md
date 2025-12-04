@@ -25,5 +25,7 @@ All assets that are contributed to this repository **must** follow the following
 
 Not following these guidelines will result in you being banned from contributing to this repository.
 
+Stuck? Read [this guide](https://github.com/hereelabs/ORRH-UGC-Repository/blob/main/GUIDE.md) on how to add each asset type.
+
 <h3 align="center">Links</h3>
 <p align=center><a href="https://onlyretrorobloxhere.itch.io/orrh">ORRH itch.io Page</a> | <a href="https://drive.google.com/file/d/1RcWZ7GC-4mL727Rt2o8YuP2PXFUmSUjH/view?usp=sharing">"ORRH Base Assets" Asset Pack</a> | <a href="https://docs.google.com/document/d/1OMIBqNByCIjMw5h2s-JnG8AK-MjKfRhuCTQ3ki8tSUk/edit?tab=t.0">Asset Fix Guide by trubo (ignore the DLL step)</a></p>

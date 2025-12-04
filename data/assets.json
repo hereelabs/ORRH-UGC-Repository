@@ -48906,6 +48906,22 @@
 			"creator": "ROBLOX",
 			"created": "2013-12-23T21:24:34.433Z",
 			"assetVersion": 1
-		}
+		},
+        "10000000004": {
+            "name": "Spider Back Appendages",
+            "description": "They're appendages. Chelicerae not included.",
+            "type": "Hat",
+            "creator": "RZeroT",
+            "created": "2024-04-10T19:02:29.41Z",
+            "assetVersion": 1
+        },
+        "10000000005": {
+            "name": "Spider Face",
+            "description": "It's chelicerae. Appendages not included.",
+            "type": "Face",
+            "creator": "N0obiee_lol",
+            "created": "2025-06-07T19:02:29.41Z",
+            "assetVersion": 1
+        }
 	}
 }
