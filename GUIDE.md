@@ -1,6 +1,6 @@
 Want to port an asset from the modern catalog / create a completely unique hat? Read **this**. (WIP)
 
-Need an example pr? Look [here](https://github.com/hereelabs/ORRH-UGC-Repository/pull/1).
+Need an example PR? Look [here](https://github.com/hereelabs/ORRH-UGC-Repository/pull/1).
 
 # How to Properly Reserve an Asset
 
