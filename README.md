@@ -9,7 +9,7 @@ Hello, this is a repository containing patches and UGC content for ORRH. Contrib
 
 The patches require you to also install the [ORRH Base Assets](https://drive.google.com/file/d/1RcWZ7GC-4mL727Rt2o8YuP2PXFUmSUjH/view?usp=sharing) asset pack, as the modified DLL code breaks the catalog by default. The "base assets" pack includes all assets that ORRH requires, including Catalog Items, Decals, Meshes, and Audios.
 
-Installation is simple. Just click "Download ZIP" from the Code dropdown, then drag the files into the top level directory of your ORRH installation. Make sure to replace any files required, including the DLL file. You can omit this file, README.md, if you wish.
+Installation is simple. Just click "Download ZIP" from the Code dropdown, then drag the files into the top level directory of your ORRH installation. Make sure to replace any files required, including the DLL file. You can omit README.md, GUIDE.md, and the .github directory if you wish.
 
 The DLL file has been modified to not append `&assetversionid=` to your character appearance, allowing you to use custom catalog assets, and also contains the patches created by trubo to fix Assetdelivery v2 functionality.
 
@@ -23,7 +23,7 @@ All assets that are contributed to this repository **must** follow the following
 4. Assets must not contain any form of scripting or malicious code.
 5. Assets must work in every client provided by the launcher. _Obviously_, Shirts and Pants wont work in 2007. But, a Hat should work fine, **with no crashes** in a 2010 client.
 
-Not following these guidelines will result in you being banned from contributing to this repository.
+Intentionally not following these guidelines will result in you being banned from contributing to this repository. Otherwise, your PR will just be closed.
 
 Stuck? Read [this guide](https://github.com/hereelabs/ORRH-UGC-Repository/blob/main/GUIDE.md) on how to add each asset type.
 

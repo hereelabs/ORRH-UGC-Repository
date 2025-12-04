@@ -1,5 +1,7 @@
 Want to port an asset from the modern catalog / create a completely unique hat? Read **this**. (WIP)
 
+Need an example PR? Look [here](https://github.com/hereelabs/ORRH-UGC-Repository/pull/1).
+
 # How to Properly Reserve an Asset
 
 When creating an asset, make sure the actual hat RBXM file is the final number. Here's an example of an non existant hat:
