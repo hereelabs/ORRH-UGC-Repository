@@ -27,7 +27,7 @@ Make sure that the position of the MeshPart is `0, 0, 0`.
 
 ## Turning a OBJ into a .mesh 1.01
 
-Now, open Novetus SDK, and go to Mesh Converter, and select the OBJ file.
+Now, open Novetus SDK, and go to Mesh Converter, and select the OBJ file. (Make sure to select 1.00, NOT 1.01. The screenshot is wrong.)
 
 <img width="289" height="200" alt="20h0PRY3sJ" src="https://github.com/user-attachments/assets/fb15b506-09f5-432c-a129-dea477f1eff1" />
 
