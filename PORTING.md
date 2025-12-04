@@ -25,7 +25,7 @@ Make sure that the position of the MeshPart is `0, 0, 0`.
 <img width="488" height="419" alt="RobloxStudioBeta_gaGAtvwRkc" src="https://github.com/user-attachments/assets/e358066d-760c-45fb-a538-bf1d1b1ed7bb" />
 <img width="1136" height="144" alt="RobloxStudioBeta_hEyAJTxIo3" src="https://github.com/user-attachments/assets/ec11c581-75f7-41d8-99e4-07ba2a29d460" />
 
-## Turning a OBJ into a .mesh 1.01
+## Turning a OBJ into a .mesh 1.00
 
 Now, open Novetus SDK, and go to Mesh Converter, and select the OBJ file. (Make sure to select 1.00, NOT 1.01. The screenshot is wrong.)
 
