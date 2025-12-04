@@ -11,6 +11,8 @@ The patches require you to also install the [ORRH Base Assets](https://drive.goo
 
 Installation is simple. Just click "Download ZIP" from the Code dropdown, then drag the files into the top level directory of your ORRH installation. Make sure to replace any files required, including the DLL file. You can omit README.md, GUIDE.md, and the .github directory if you wish.
 
+After installing, you can run the `orrh-ugc-update.ps1` script to automatically update to the latest version. You can also just place this `.ps1` file into your ORRH directory, then run it to install from scratch.
+
 The DLL file has been modified to not append `&assetversionid=` to your character appearance, allowing you to use custom catalog assets, and also contains the patches created by trubo to fix Assetdelivery v2 functionality.
 
 # Contribution Guidelines
