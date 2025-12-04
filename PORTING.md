@@ -54,4 +54,4 @@ For example, the Mesh of the Noob Hat was changed in Scale to `0.5, 0.5, 0.5` th
 
 Finally, save the Hat as a Model with the final Reserved asset id into the `/data/assets/accessory/` directory. In this case, it is `10000000008.rbxm`.
 
-Now you can read the [Guide](https://github.com/hereelabs/ORRH-UGC-Repository/blob/main/GUIDE.md) on adding new assets. The PR that added this hat into the repository is [here](https://github.com/hereelabs/ORRH-UGC-Repository/pull/2)! Have fun!
+Now you can read the [Guide](https://github.com/hereelabs/ORRH-UGC-Repository/blob/main/CATALOG.md) on adding new assets. The PR that added this hat into the repository is [here](https://github.com/hereelabs/ORRH-UGC-Repository/pull/2)! Have fun!
