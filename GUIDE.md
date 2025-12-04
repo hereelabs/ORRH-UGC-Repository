@@ -1,4 +1,4 @@
-Want to port an asset from the modern catalog / create a completely unique hat? Read **this**. (WIP)
+Want to port an asset from the modern catalog / create a completely unique hat? Read [this](https://github.com/hereelabs/ORRH-UGC-Repository/blob/main/PORTING.md).
 
 Need an example PR? Look [here](https://github.com/hereelabs/ORRH-UGC-Repository/pull/1).
 
