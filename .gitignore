@@ -19,6 +19,7 @@ data/PublicKeyBlob.txt
 maps/Base
 redist/
 runtimes/
+assetpacks/
 appsettings.Development.json
 appsettings.json
 CommandLine.dll
