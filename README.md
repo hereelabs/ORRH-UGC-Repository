@@ -5,7 +5,7 @@
 
 # Introduction
 
-This is a repository containing patches and UGC content for ORRH to extend it's usage past it's death. Included in this content is new Map files, Catalog Items, and patches. Contributions are welcome, but please read the contribution requirements before giving it a shot.
+This is a repository containing patches and UGC content for ORRH to extend it's usage past it's discontinuation. Included in this content is new Map files, Catalog Items, and patches. Contributions are welcome, but please read the contribution requirements before giving it a shot.
 
 The patches require you to also install the [ORRH Base Assets](https://drive.google.com/file/d/1RcWZ7GC-4mL727Rt2o8YuP2PXFUmSUjH/view?usp=sharing) asset pack, as the modified DLL code breaks the catalog by default. The "base assets" pack includes all assets that ORRH requires, including Catalog Items, Decals, Meshes, and Audios.
 
