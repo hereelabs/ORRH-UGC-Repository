@@ -6,6 +6,7 @@ try{
 	Remove-Item '.\ORRH-UGC-Repository-main\README.md' -Force
 	Remove-Item '.\ORRH-UGC-Repository-main\PORTING.md' -Force
 	Remove-Item '.\ORRH-UGC-Repository-main\GUIDE.md' -Force
+	Remove-Item '.\ORRH-UGC-Repository-main\CATALOG.md' -Force
 	Remove-Item '.\ORRH-UGC-Repository-main\.gitignore' -Force
 	Remove-Item '.\ORRH-UGC-Repository-main\.github' -Recurse -Force
 	# We don't want to overwrite the DLL file. That must be installed manually y'know. Just in case!
@@ -16,7 +17,6 @@ try{
 	# Literally just git pull. It does the same thing.
 	Copy-Item '.\ORRH-UGC-Repository-main\*' './' -Recurse -Force
 	Remove-Item '.\ORRH-UGC-Repository-main' -Recurse -Force
- 
 } catch {
 	Write-Host "$($_.Exception.Message)"
 }
