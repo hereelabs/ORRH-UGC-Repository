@@ -48930,6 +48930,14 @@
             "creator": "CaioAlbarnBR",
             "created": "2020-05-07T13:48:43.00Z",
             "assetVersion": 1
+        },
+		"10000000011": {
+            "name": "Xaviersobased Pillow",
+            "description": "Based Pillow",
+            "type": "Hat",
+            "creator": "Underground Pillows, RubenJordan",
+            "created": "2025-06-30T13:48:43.00Z",
+            "assetVersion": 1
         }
 	}
 }
