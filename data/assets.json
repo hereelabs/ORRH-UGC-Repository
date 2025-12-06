@@ -49011,6 +49011,14 @@
             "creator": "Badspot",
             "created": "2007-02-24T13:48:43.00Z",
             "assetVersion": 1
+        },
+		"10000000024": {
+            "name": "Ruben Fresh Cut",
+            "description": "So frehs so clean",
+            "type": "Hat",
+            "creator": "RubenJordan",
+            "created": "2023-08-03T13:48:43.00Z",
+            "assetVersion": 1
         }
 	}
 }
