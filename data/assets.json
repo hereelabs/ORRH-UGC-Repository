@@ -48938,6 +48938,79 @@
             "creator": "Underground Pillows, RubenJordan",
             "created": "2025-06-30T13:48:43.00Z",
             "assetVersion": 1
+        },
+		"10000000012": {
+			"name": "Blockhead",
+			"description": "C'mon, we used to rule the brick building sphere before *you* came around.",
+			"type": "Package",
+			"creator": "blockland.us",
+			"created": "2024-11-07T13:48:43.00Z",
+			"items": [
+				10000000013,
+				10000000014,
+				10000000015,
+				10000000016,
+				10000000017,
+				10000000018,
+				10000000019
+			],
+			"assetVersion": 0
+		},
+		"10000000013": {
+            "name": "Blockhead Head",
+            "description": "",
+            "type": "Head",
+            "creator": "Badspot",
+            "created": "2024-11-07T13:48:43.00Z",
+            "assetVersion": 1
+        },
+		"10000000014": {
+            "name": "Blockhead Torso",
+            "description": "",
+            "type": "Torso",
+            "creator": "Badspot",
+            "created": "2024-11-07T13:48:43.00Z",
+            "assetVersion": 1
+        },
+		"10000000015": {
+            "name": "Blockhead Right Arm",
+            "description": "",
+            "type": "RightArm",
+            "creator": "Badspot",
+            "created": "2024-11-07T13:48:43.00Z",
+            "assetVersion": 1
+        },
+		"10000000016": {
+            "name": "Blockhead Right Leg",
+            "description": "",
+            "type": "RightLeg",
+            "creator": "Badspot",
+            "created": "2024-11-07T13:48:43.00Z",
+            "assetVersion": 1
+        },
+		"10000000017": {
+            "name": "Blockhead Left Arm",
+            "description": "",
+            "type": "LeftArm",
+            "creator": "Badspot",
+            "created": "2024-11-07T13:48:43.00Z",
+            "assetVersion": 1
+        },
+		"10000000018": {
+            "name": "Blockhead Left Leg",
+            "description": "",
+            "type": "LeftLeg",
+            "creator": "Badspot",
+            "created": "2024-11-07T13:48:43.00Z",
+            "assetVersion": 1
+        },
+		"10000000020": {
+            "name": "smileyDefault",
+            "description": "",
+            "type": "Face",
+            "creator": "Badspot",
+            "created": "2007-02-24T13:48:43.00Z",
+            "assetVersion": 1
         }
 	}
 }
