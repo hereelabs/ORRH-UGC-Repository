@@ -49011,6 +49011,22 @@
             "creator": "Badspot",
             "created": "2007-02-24T13:48:43.00Z",
             "assetVersion": 1
+        },
+		"10000000024": {
+            "name": "Ruben Fresh Cut",
+            "description": "So frehs so clean",
+            "type": "Hat",
+            "creator": "RubenJordan",
+            "created": "2023-08-03T13:48:43.00Z",
+            "assetVersion": 1
+        },
+		"10000000027": {
+            "name": "long messy emo hair in dark red",
+            "description": "",
+            "type": "Hat",
+            "creator": "kuro",
+            "created": "2025-07-13T13:48:43.00Z",
+            "assetVersion": 1
         }
 	}
 }
