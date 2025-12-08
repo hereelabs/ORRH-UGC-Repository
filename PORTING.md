@@ -55,3 +55,19 @@ For example, the Mesh of the Noob Hat was changed in Scale to `0.5, 0.5, 0.5` th
 Finally, save the Hat as a Model with the final Reserved asset id into the `/data/assets/accessory/` directory. In this case, it is `10000000008.rbxm`.
 
 Now you can read the [Guide](https://github.com/hereelabs/ORRH-UGC-Repository/blob/main/CATALOG.md) on adding new assets. The PR that added this hat into the repository is [here](https://github.com/hereelabs/ORRH-UGC-Repository/pull/2)! Have fun!
+
+## Porting over KeyframeSequence objects from modern versions of Roblox Studio over to older Studio clients
+
+Let's assume you already have a KeyframeSequence object ready in modern Roblox Studio, export it as a Roblox XML Model File. (.rbxmx)
+
+After you have it saved somewhere you will have to rename the file extension from .rbxmx to .rbxm, as it is the only format all clients in ORRH support.
+
+Open the file in any text editor of your choice and replace the beginning 4 lines of the file with this, as otherwise it won't let you insert it into Studio.
+
+```
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4" assettype="animation">
+<External>null</External>
+<External>nil</External>
+```
+
+After that you should just be able to insert the .rbxm file onto `/data/assets/accessory/`, rename it following the name scheme mentioned earlier, and be able to import it into 2013M Studio, and the animation should be able to load in all of the clients that support animations being played.
