@@ -49099,6 +49099,30 @@
             "creator": "UGC Creative",
             "created": "2025-08-25T13:48:43.00Z",
             "assetVersion": 1
+        },
+		"10000000073": {
+            "name": "FNCS Axe Of Champions",
+            "description": "FNCS Axe",
+            "type": "Hat",
+            "creator": "feats",
+            "created": "2024-04-15T13:48:43.00Z",
+            "assetVersion": 1
+        },
+		"10000000074": {
+            "name": "M9 Bayonet",
+            "description": "m9 bayonet on waist knife",
+            "type": "Hat",
+            "creator": "jcx",
+            "created": "2025-06-11T13:48:43.00Z",
+            "assetVersion": 1
+        },
+		"10000000075": {
+            "name": "RoRods",
+            "description": "I'm 99% sure you cannot be considered cool without wearing a pair of these. ",
+            "type": "Hat",
+            "creator": "Reverse_Polarity",
+            "created": "2019-10-16T13:48:43.00Z",
+            "assetVersion": 1
         }
 	}
 }
