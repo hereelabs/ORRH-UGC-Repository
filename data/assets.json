@@ -49091,6 +49091,14 @@
             "creator": "Multiple People",
             "created": "2025-12-07T13:48:43.00Z",
             "assetVersion": 1
+        },
+		"10000000066": {
+            "name": "Herobrine",
+            "description": "Heroim",
+            "type": "Hat",
+            "creator": "UGC Creative",
+            "created": "2025-08-25T13:48:43.00Z",
+            "assetVersion": 1
         }
 	}
 }
