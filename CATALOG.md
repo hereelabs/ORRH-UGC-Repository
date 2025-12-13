@@ -1,5 +1,5 @@
 > [!NOTE]
-> Reserving CharacterMesh IDs will use the field 2147482647 - 2147483647, which is 1000 below the 32-bit integer limit. Do **NOT** use these fields for anything else.
+> Reserving IDs for the CharacterMesh object, such as `MeshId` and `OverlayTextureId` values, will use the field 2147482647 - 2147483647, which is 1000 below the 32-bit integer limit. Do **NOT** use these fields for anything else.
 
 Want to port an asset from the modern catalog / create a completely unique hat? Read [this](https://github.com/hereelabs/ORRH-UGC-Repository/blob/main/PORTING.md).
 
