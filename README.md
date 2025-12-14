@@ -6,9 +6,9 @@
 
 # Introduction
 
-This is a repository containing the up-to-date catalog and asset selection for ORRH. This content is compatible with the legacy version of ORRH and the latest version 1.3.0.0. Included in this content is new Map files, Catalog Items, and patches. Contributions are welcome, but please read the contribution requirements before giving it a shot.
+This is a repository containing the up-to-date catalog and asset selection for ORRH. This content is compatible with the legacy version of ORRH and the latest ORRH-ng versions. Included in this content is new Map files, Catalog Items, and patches. Contributions are welcome, but please read the contribution requirements before giving it a shot.
 
-For users of ORRH Versions 1.3.0.0 and up, you will automatically download and extract the latest assets from this repository if you are outdated when you open the launcher program.
+For users of ORRH Versions 1.3.0.0 and up, you will automatically download and extract the latest assets from this repository if you are outdated when you open the launcher program. This is reccomended over the legacy version of OnlyRetroRobloxHere, as it will update your assets automatically and will be properly supported.
 
 # Contribution Guidelines
 
