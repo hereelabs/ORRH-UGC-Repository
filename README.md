@@ -14,6 +14,8 @@ After installing, you can run the `orrh-ugc-update.ps1` script to automatically 
 
 The DLL file has been modified to not append `&assetversionid=` to your character appearance, allowing you to use custom catalog assets, and also contains the patches created by trubo to fix Assetdelivery v2 functionality.
 
+For users of the decompiled version of ORRH, ORRH-ng, you will automatically download and extract the latest assets from this repository if you are outdated when you open the launcher program.
+
 # Contribution Guidelines
 
 All assets that are contributed to this repository **must** follow the following guidelines:
