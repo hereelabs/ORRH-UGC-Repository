@@ -1,7 +1,5 @@
-<p align="center"> <img width="284" height="187" alt="ORRH Logo" src="https://github.com/user-attachments/assets/ec6140bd-0908-4ac1-b064-7818e26dd9e5" /> </p>
-
-<p align="center" style="font-size: 8;">ORRH originally developed by Matt / BRAVONATCHO. We are not associated with Matt in any way.</p>
 <h1 align="center"> ORRH Asset Repository </h1>
+<p align="center" style="font-size: 8;">ORRH originally developed by Matt / BRAVONATCHO. We are not associated with Matt in any way.</p>
 <p align=center><a href="https://github.com/soundseraph/OnlyRetroRobloxHere-ng">OnlyRetroRobloxHere-ng Github</a> | <a href="https://docs.google.com/document/d/1OMIBqNByCIjMw5h2s-JnG8AK-MjKfRhuCTQ3ki8tSUk/edit?tab=t.0">Original ORRH Asset Fix Guide</a></p>
 
 # Introduction
