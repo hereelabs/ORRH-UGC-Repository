@@ -1,20 +1,14 @@
 <p align="center"> <img width="284" height="187" alt="ORRH Logo" src="https://github.com/user-attachments/assets/ec6140bd-0908-4ac1-b064-7818e26dd9e5" /> </p>
 
-<p align="center" style="font-size: 8;">ORRH developed by Matt / BRAVONATCHO. We are not associated with Matt in any way.</p>
-<h1 align="center"> Postmortem Catalog Extension </h1>
-<p align=center><a href="https://onlyretrorobloxhere.itch.io/orrh">ORRH itch.io Page</a> | <a href="https://drive.google.com/file/d/1RcWZ7GC-4mL727Rt2o8YuP2PXFUmSUjH/view?usp=sharing">"ORRH Base Assets" Asset Pack</a> | <a href="https://docs.google.com/document/d/1OMIBqNByCIjMw5h2s-JnG8AK-MjKfRhuCTQ3ki8tSUk/edit?tab=t.0">Asset Fix Guide by trubo (ignore the DLL step)</a></p>
+<p align="center" style="font-size: 8;">ORRH originally developed by Matt / BRAVONATCHO. We are not associated with Matt in any way.</p>
+<h1 align="center"> ORRH Asset Repository </h1>
+<p align=center><a href="https://github.com/soundseraph/OnlyRetroRobloxHere-ng">OnlyRetroRobloxHere-ng Github</a> | <a href="https://docs.google.com/document/d/1OMIBqNByCIjMw5h2s-JnG8AK-MjKfRhuCTQ3ki8tSUk/edit?tab=t.0">Original ORRH Asset Fix Guide</a></p>
 
 # Introduction
 
-This is a repository containing patches and UGC content for ORRH to extend it's usage past it's discontinuation. Included in this content is new Map files, Catalog Items, and patches. Contributions are welcome, but please read the contribution requirements before giving it a shot.
+This is a repository containing the up-to-date catalog and asset selection for ORRH. This content is compatible with the legacy version of ORRH and the latest version 1.3.0.0. Included in this content is new Map files, Catalog Items, and patches. Contributions are welcome, but please read the contribution requirements before giving it a shot.
 
-The patches require you to also install the [ORRH Base Assets](https://drive.google.com/file/d/1RcWZ7GC-4mL727Rt2o8YuP2PXFUmSUjH/view?usp=sharing) asset pack, as the modified DLL code breaks the catalog by default. The "base assets" pack includes all assets that ORRH requires, including Catalog Items, Decals, Meshes, and Audios.
-
-Installation is simple. Just click "Download ZIP" from the Code dropdown, then drag the files into the top level directory of your ORRH installation. Make sure to replace any files required, including the DLL file. You can omit README.md, GUIDE.md, and the .github directory if you wish.
-
-After installing, you can run the `orrh-ugc-update.ps1` script to automatically update the catalog to the latest version. The updater tool does not include any DLL or Github files in the updates, just the Map and Catalog assets.
-
-The DLL file has been modified to not append `&assetversionid=` to your character appearance, allowing you to use custom catalog assets, and also contains the patches created by trubo to fix Assetdelivery v2 functionality.
+For users of ORRH Versions 1.3.0.0 and up, you will automatically download and extract the latest assets from this repository if you are outdated when you open the launcher program.
 
 # Contribution Guidelines
 
