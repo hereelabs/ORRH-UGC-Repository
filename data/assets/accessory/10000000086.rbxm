@@ -118,7 +118,7 @@
 					<Content name="LinkedSource"><null></null></Content>
 					<string name="Name">Color</string>
 					<ProtectedString name="Source">-- makes the hat color accurate to the body part it&apos;s attached to
-wait(0.1)
+wait(1)
 
 function sync()
 local searchpart = &quot;Head&quot; -- set to your bodypart (no spaces)
