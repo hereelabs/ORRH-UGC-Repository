@@ -121,13 +121,13 @@
 wait(0.1)
 
 function sync()
-local searchpart = &quot;Torso&quot; -- set to your bodypart
+local searchpart = &quot;Torso&quot; -- set to your bodypart (no spaces)
 local character = script.Parent.Parent.Parent
+bodycolors = character[&apos;Body Colors&apos;]
 
 if character:FindFirstChild(searchpart) then
-&#9;bodypart = character:FindFirstChild(searchpart)
-&#9;if bodypart then
-&#9;script.Parent.BrickColor = bodypart.BrickColor
+&#9;if bodycolors then
+&#9;script.Parent.BrickColor = BrickColor.new(bodycolors[searchpart .. &quot;Color&quot;].Color)
 &#9;end
 end
 end
