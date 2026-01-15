@@ -121,7 +121,7 @@
 wait(0.1)
 
 function sync()
-local searchpart = &quot;Torso&quot; -- set to your bodypart (no spaces)
+local searchpart = &quot;Head&quot; -- set to your bodypart (no spaces)
 local character = script.Parent.Parent.Parent
 bodycolors = character[&apos;Body Colors&apos;]
 
