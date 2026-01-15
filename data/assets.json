@@ -49109,6 +49109,22 @@
             "creator": "DJXrock15",
             "created": "2025-07-01T13:48:43.00Z",
             "assetVersion": 1
+        },
+        "10000000085": {
+            "name": "Lizard Tail",
+            "description": "Automatically matches your torso!",
+            "type": "Hat",
+            "creator": "tommy",
+            "created": "2026-01-14T13:48:43.00Z",
+            "assetVersion": 1
+        },
+        "10000000086": {
+            "name": "Lizard Frills",
+            "description": "Automatically matches your head!",
+            "type": "Hat",
+            "creator": "tommy",
+            "created": "2026-01-14T13:48:43.00Z",
+            "assetVersion": 1
         }
     }
 }
