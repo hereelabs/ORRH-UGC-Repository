@@ -13,6 +13,17 @@ When creating an asset, make sure the actual hat RBXM file is the final number. 
 1290 - hat.png
 1291 - hat.rbxm
 ```
+
+All catalog assets must contain a tag before them that indicates where they come from.
+
+```
+[C] - Custom - Asset was created by you.
+[R] - Roblox - Asset was taken from Roblox.
+[F] - Finobe / Nobelium - Asset was ported from Finobe or Nobelium.
+[G] - Graphictoria - Asset was ported from Graphictoria.
+[T] - Tadah - Asset was ported from Tadah.
+```
+
 This makes it easy to fix merge conflicts, as future contributors can easily add new hat assets. Please make sure to follow this rule for the sake of easy asset additions.
 
 # Basic Asset Additions
@@ -27,7 +38,7 @@ Finally, you can add a new asset to the catalog. You can edit "/data/assets.json
 
 ```
 "10000001291": {
-    "name": "My Super Cool Hat",
+    "name": "[C] My Super Cool Hat",
     "description": "Don't look at me like that.",
     "type": "Hat",
     "creator": "NostalgicNoob06",
