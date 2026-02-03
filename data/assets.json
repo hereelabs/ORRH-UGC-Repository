@@ -48878,7 +48878,7 @@
             "assetVersion": 1
         },
         "10000000004": {
-            "name": "Spider Back Appendages",
+            "name": "[R] Spider Back Appendages",
             "description": "They're appendages. Chelicerae not included.",
             "type": "Hat",
             "creator": "RZeroT",
@@ -48886,7 +48886,7 @@
             "assetVersion": 1
         },
         "10000000005": {
-            "name": "Spider Face",
+            "name": "[R] Spider Face",
             "description": "It's chelicerae. Appendages not included.",
             "type": "Face",
             "creator": "N0obiee_lol",
@@ -48894,7 +48894,7 @@
             "assetVersion": 1
         },
         "10000000008": {
-            "name": "Noob on Shoulder",
+            "name": "[R] Noob on Shoulder",
             "description": "Carry him everywhere like the good friend you are!",
             "type": "Hat",
             "creator": "CaioAlbarnBR",
@@ -48902,7 +48902,7 @@
             "assetVersion": 1
         },
         "10000000011": {
-            "name": "Xaviersobased Pillow",
+            "name": "[C] Xaviersobased Pillow",
             "description": "Based Pillow",
             "type": "Hat",
             "creator": "Underground Pillows, RubenJordan",
@@ -48910,7 +48910,7 @@
             "assetVersion": 1
         },
         "10000000012": {
-            "name": "Blockhead",
+            "name": "[C] Blockhead",
             "description": "C'mon, we used to rule the brick building sphere before *you* came around.",
             "type": "Package",
             "creator": "blockland.us",
@@ -48927,7 +48927,7 @@
             "assetVersion": 0
         },
         "10000000013": {
-            "name": "Blockhead Head",
+            "name": "[C] Blockhead Head",
             "description": "",
             "type": "Head",
             "creator": "Badspot",
@@ -48935,7 +48935,7 @@
             "assetVersion": 1
         },
         "10000000014": {
-            "name": "Blockhead Torso",
+            "name": "[C] Blockhead Torso",
             "description": "",
             "type": "Torso",
             "creator": "Badspot",
@@ -48943,7 +48943,7 @@
             "assetVersion": 1
         },
         "10000000015": {
-            "name": "Blockhead Right Arm",
+            "name": "[C] Blockhead Right Arm",
             "description": "",
             "type": "RightArm",
             "creator": "Badspot",
@@ -48951,7 +48951,7 @@
             "assetVersion": 1
         },
         "10000000016": {
-            "name": "Blockhead Right Leg",
+            "name": "[C] Blockhead Right Leg",
             "description": "",
             "type": "RightLeg",
             "creator": "Badspot",
@@ -48959,7 +48959,7 @@
             "assetVersion": 1
         },
         "10000000017": {
-            "name": "Blockhead Left Arm",
+            "name": "[C] Blockhead Left Arm",
             "description": "",
             "type": "LeftArm",
             "creator": "Badspot",
@@ -48967,7 +48967,7 @@
             "assetVersion": 1
         },
         "10000000018": {
-            "name": "Blockhead Left Leg",
+            "name": "[C] Blockhead Left Leg",
             "description": "",
             "type": "LeftLeg",
             "creator": "Badspot",
@@ -48975,7 +48975,7 @@
             "assetVersion": 1
         },
         "10000000020": {
-            "name": "smileyDefault",
+			"name": "[C] smileyDefault",
             "description": "",
             "type": "Face",
             "creator": "Badspot",
@@ -48983,7 +48983,7 @@
             "assetVersion": 1
         },
         "10000000024": {
-            "name": "Ruben Fresh Cut",
+            "name": "[C] Ruben Fresh Cut",
             "description": "So frehs so clean",
             "type": "Hat",
             "creator": "RubenJordan",
@@ -48991,7 +48991,7 @@
             "assetVersion": 1
         },
         "10000000027": {
-            "name": "long messy emo hair in dark red",
+            "name": "[R] long messy emo hair in dark red",
             "description": "",
             "type": "Hat",
             "creator": "kuro",
@@ -48999,7 +48999,7 @@
             "assetVersion": 1
         },
         "10000000035": {
-            "name": "Silly Fanged Void Eye Face",
+            "name": "[R] Silly Fanged Void Eye Face",
             "description": "Thank you for shopping ch!bi",
             "type": "Face",
             "creator": "CH!BI",
@@ -49007,7 +49007,7 @@
             "assetVersion": 1
         },
         "10000000036": {
-            "name": "Moth Wings Monochrome",
+            "name": "[R] Moth Wings Monochrome",
             "description": "These wings will fly you anywhere; automatically to lamps though.",
             "type": "Hat",
             "creator": "WhoToTrus",
@@ -49015,7 +49015,7 @@
             "assetVersion": 1
         },
         "10000000037": {
-            "name": "Moth Ears Monochrome",
+            "name": "[R] Moth Ears Monochrome",
             "description": "Don't fly to the lamp!",
             "type": "Hat",
             "creator": "WhoToTrus",
@@ -49023,7 +49023,7 @@
             "assetVersion": 1
         },
         "10000000038": {
-            "name": "hair test 2",
+            "name": "[R] hair test 2",
             "description": "please oh please work this time",
             "type": "Hat",
             "creator": "creditctrls",
@@ -49031,7 +49031,7 @@
             "assetVersion": 1
         },
         "10000000040": {
-            "name": "m3x face",
+			"name": "[C] m3x face",
             "description": "",
             "type": "Face",
             "creator": "m3x",
@@ -49039,7 +49039,7 @@
             "assetVersion": 1
         },
         "10000000042": {
-            "name": "Puffle Face",
+            "name": "[C] Puffle Face",
             "description": "Waddle around and meet new friends!",
             "type": "Face",
             "creator": "Makos",
@@ -49047,7 +49047,7 @@
             "assetVersion": 1
         },
         "10000000050": {
-            "name": "Medical Herb",
+            "name": "[C] Medical Herb",
             "description": "I-I get hiiiigh of your memory...",
             "type": "Gear",
             "creator": "Mary Jane",
@@ -49055,7 +49055,7 @@
             "assetVersion": 1
         },
         "10000000057": {
-            "name": "SHAKE THAT THANG",
+            "name": "[C] SHAKE THAT THANG",
             "description": "Music by DJ D Wizz, DJ Moortje, and DJ JM7 - DJ MIKODADZ7.",
             "type": "Gear",
             "creator": "Multiple People",
@@ -49063,7 +49063,7 @@
             "assetVersion": 1
         },
         "10000000066": {
-            "name": "Herobrine",
+            "name": "[R] Herobrine",
             "description": "Heroim",
             "type": "Hat",
             "creator": "UGC Creative",
@@ -49071,7 +49071,7 @@
             "assetVersion": 1
         },
         "10000000073": {
-            "name": "FNCS Axe Of Champions",
+            "name": "[R] FNCS Axe Of Champions",
             "description": "FNCS Axe",
             "type": "Hat",
             "creator": "feats",
@@ -49079,7 +49079,7 @@
             "assetVersion": 1
         },
         "10000000074": {
-            "name": "M9 Bayonet",
+            "name": "[R] M9 Bayonet",
             "description": "m9 bayonet on waist knife",
             "type": "Hat",
             "creator": "jcx",
@@ -49087,7 +49087,7 @@
             "assetVersion": 1
         },
         "10000000075": {
-            "name": "RoRods",
+            "name": "[R] RoRods",
             "description": "I'm 99% sure you cannot be considered cool without wearing a pair of these. ",
             "type": "Hat",
             "creator": "Reverse_Polarity",
@@ -49095,7 +49095,7 @@
             "assetVersion": 1
         },
         "10000000078": {
-            "name": "Jagged Low Poly Pigtails - Black",
+            "name": "[R] Jagged Low Poly Pigtails - Black",
             "description": "",
             "type": "Hat",
             "creator": "zpez",
@@ -49103,7 +49103,7 @@
             "assetVersion": 1
         },
         "10000003939": {
-            "name": "Miku Hatsune Hair",
+            "name": "[C] Miku Hatsune Hair",
             "description": "Wherever these continuing tracks are connected to,\nThe distant yonder I admired is now painted in infinite colours\nUntil the day comes where those words I spun reach you\nEven if I’m hurt, I’ll continue to paint until the end of the world.",
             "type": "Hat",
             "creator": "DJXrock15",
@@ -49111,7 +49111,7 @@
             "assetVersion": 1
         },
         "10000000085": {
-            "name": "Lizard Tail",
+            "name": "[C] Lizard Tail",
             "description": "Automatically matches your torso!",
             "type": "Hat",
             "creator": "tommy",
@@ -49119,11 +49119,107 @@
             "assetVersion": 1
         },
         "10000000086": {
-            "name": "Lizard Frills",
+            "name": "[C] Lizard Frills",
             "description": "Automatically matches your head!",
             "type": "Hat",
             "creator": "tommy",
             "created": "2026-01-14T13:48:43.00Z",
+            "assetVersion": 1
+        },
+        "10000000087": {
+            "name": "[F] Galaxy Ball",
+            "description": "It's a Finobe import.",
+            "type": "Hat",
+            "creator": "Finobe",
+            "created": "2020-01-01T00:01:00.00Z",
+            "assetVersion": 1
+        },
+        "10000000088": {
+            "name": "[F] Rainbow Teapot",
+            "description": "It's a Finobe import.",
+            "type": "Hat",
+            "creator": "Finobe",
+            "created": "2020-01-01T00:01:00.00Z",
+            "assetVersion": 1
+        },
+        "10000000089": {
+            "name": "[F] Seiko's Soul",
+            "description": "It's a Finobe import.",
+            "type": "Hat",
+            "creator": "Finobe",
+            "created": "2020-01-01T00:01:00.00Z",
+            "assetVersion": 1
+        },
+        "10000000090": {
+            "name": "[F] Dark Gary's Soul",
+            "description": "It's a Finobe import.",
+            "type": "Hat",
+            "creator": "Finobe",
+            "created": "2020-01-01T00:01:00.00Z",
+            "assetVersion": 1
+        },
+        "10000000091": {
+            "name": "[F] UWU Hat",
+            "description": "It's a Finobe import.",
+            "type": "Hat",
+            "creator": "Finobe",
+            "created": "2020-01-01T00:01:00.00Z",
+            "assetVersion": 1
+        },
+        "10000000092": {
+            "name": "[F] Finoob",
+            "description": "It's a Finobe import.",
+            "type": "Hat",
+            "creator": "Finobe",
+            "created": "2020-01-01T00:01:00.00Z",
+            "assetVersion": 1
+        },
+        "10000000093": {
+            "name": "[F] death grips frenemy",
+            "description": "It's a Finobe import.",
+            "type": "Hat",
+            "creator": "Finobe",
+            "created": "2020-01-01T00:01:00.00Z",
+            "assetVersion": 1
+        },
+        "10000000094": {
+            "name": "[F] Marshmallow Head",
+            "description": "It's a Finobe import.",
+            "type": "Hat",
+            "creator": "Finobe",
+            "created": "2020-01-01T00:01:00.00Z",
+            "assetVersion": 1
+        },
+        "10000000095": {
+            "name": "[F] Telamon's Evil Chicken Suit",
+            "description": "It's a Finobe import.",
+            "type": "Hat",
+            "creator": "Finobe",
+            "created": "2020-01-01T00:01:00.00Z",
+            "assetVersion": 1
+        },
+        "10000000096": {
+            "name": "[F] Dominus OwOnium",
+            "description": "It's a Finobe import.",
+            "type": "Hat",
+            "creator": "Finobe",
+            "created": "2020-01-01T00:01:00.00Z",
+            "assetVersion": 1
+        },
+        "10000000097": {
+            "name": "[F] Finobe Birthday Party Hat",
+            "description": "It's a Finobe import.",
+            "type": "Hat",
+            "creator": "Finobe",
+            "created": "2020-01-01T00:01:00.00Z",
+            "assetVersion": 1
+        },
+        "10000000098": {
+            "name": "[F] Fruity Pebbles Domino Crown",
+            "description": "It's a Finobe import.",
+            "type": "Hat",
+            "creator": "Finobe",
+            "created": "2020-01-01T00:01:00.00Z",
             "assetVersion": 1
         }
     }

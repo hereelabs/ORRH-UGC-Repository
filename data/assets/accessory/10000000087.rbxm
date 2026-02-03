@@ -5,7 +5,7 @@
 		<Properties>
 			<CoordinateFrame name="AttachmentPoint">
 				<X>0</X>
-				<Y>-3</Y>
+				<Y>2</Y>
 				<Z>0</Z>
 				<R00>1</R00>
 				<R01>0</R01>
@@ -17,7 +17,7 @@
 				<R21>0</R21>
 				<R22>1</R22>
 			</CoordinateFrame>
-			<string name="Name">Ruben Fresh Cut</string>
+			<string name="Name">Hat</string>
 		</Properties>
 		<Item class="Part" referent="RBX1">
 			<Properties>
@@ -28,14 +28,14 @@
 				<token name="BackSurfaceInput">0</token>
 				<float name="BottomParamA">-0.5</float>
 				<float name="BottomParamB">0.5</float>
-				<token name="BottomSurface">4</token>
+				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
-				<int name="BrickColor">194</int>
+				<int name="BrickColor">1003</int>
 				<CoordinateFrame name="CFrame">
-					<X>0</X>
-					<Y>-2.5</Y>
-					<Z>0.5</Z>
-					<R00>1</R00>
+					<X>-8</X>
+					<Y>1.80000019</Y>
+					<Z>3.5</Z>
+					<R00>-1</R00>
 					<R01>0</R01>
 					<R02>0</R02>
 					<R10>0</R10>
@@ -43,7 +43,7 @@
 					<R12>0</R12>
 					<R20>0</R20>
 					<R21>0</R21>
-					<R22>1</R22>
+					<R22>-1</R22>
 				</CoordinateFrame>
 				<bool name="CanCollide">false</bool>
 				<float name="Elasticity">0.5</float>
@@ -71,9 +71,9 @@
 				</Vector3>
 				<float name="TopParamA">-0.5</float>
 				<float name="TopParamB">0.5</float>
-				<token name="TopSurface">3</token>
+				<token name="TopSurface">0</token>
 				<token name="TopSurfaceInput">0</token>
-				<float name="Transparency">0</float>
+				<float name="Transparency">0.100000001</float>
 				<Vector3 name="Velocity">
 					<X>0</X>
 					<Y>0</Y>
@@ -87,65 +87,38 @@
 					<Z>1</Z>
 				</Vector3>
 			</Properties>
-			<Item class="Decal" referent="RBX2">
+			<Item class="SelectionBox" referent="RBX2">
 				<Properties>
-					<token name="Face">5</token>
-					<string name="Name">Decal</string>
-					<float name="Shiny">20</float>
-					<float name="Specular">0</float>
-					<Content name="Texture"><url>http://www.roblox.com/asset?id=10000000021</url></Content>
-					<float name="Transparency">0</float>
+					<Ref name="Adornee">RBX1</Ref>
+					<int name="Color">1001</int>
+					<string name="Name">SelectionBox</string>
+					<float name="Transparency">0.300000012</float>
+					<bool name="Visible">true</bool>
 				</Properties>
 			</Item>
-			<Item class="Sound" referent="RBX3">
+			<Item class="Sparkles" referent="RBX3">
 				<Properties>
-					<bool name="Looped">false</bool>
-					<string name="Name">Freshcut1</string>
-					<float name="Pitch">1</float>
-					<bool name="PlayOnRemove">false</bool>
-					<Content name="SoundId"><url>http://www.roblox.com/asset?id=10000000022</url></Content>
-					<float name="Volume">0.5</float>
+					<bool name="Enabled">true</bool>
+					<string name="Name">Sparkles</string>
+					<Color3 name="SparkleColor">4291624959</Color3>
 				</Properties>
 			</Item>
-			<Item class="Sound" referent="RBX4">
+			<Item class="Fire" referent="RBX4">
 				<Properties>
-					<bool name="Looped">false</bool>
-					<string name="Name">Freshcut2</string>
-					<float name="Pitch">1</float>
-					<bool name="PlayOnRemove">false</bool>
-					<Content name="SoundId"><url>http://www.roblox.com/asset?id=10000000023</url></Content>
-					<float name="Volume">0.5</float>
+					<Color3 name="Color">4291624959</Color3>
+					<bool name="Enabled">true</bool>
+					<string name="Name">Fire</string>
+					<Color3 name="SecondaryColor">4291624959</Color3>
+					<float name="heat_xml">9</float>
+					<float name="size_xml">3</float>
 				</Properties>
 			</Item>
-			<Item class="Script" referent="RBX5">
-				<Properties>
-					<bool name="Disabled">false</bool>
-					<Content name="LinkedSource"><null></null></Content>
-					<string name="Name">Script</string>
-					<ProtectedString name="Source">function isWorn()
-&#9;return script.Parent.Parent.Parent:FindFirstChild(&quot;Humanoid&quot;) ~= nil
-end
-
-while true do
-
-&#9;wait(math.random(60,100))
-
-&#9;if (isWorn()) then
-
-&#9;&#9;local name = &quot;Freshcut&quot; .. math.random(1,2)
-
-&#9;&#9;script.Parent:FindFirstChild(name):Play()
-&#9;end
-
-end</ProtectedString>
-				</Properties>
-			</Item>
-			<Item class="SpecialMesh" referent="RBX6">
+			<Item class="SpecialMesh" referent="RBX5">
 				<Properties>
 					<token name="LODX">2</token>
 					<token name="LODY">2</token>
 					<Content name="MeshId"><null></null></Content>
-					<token name="MeshType">6</token>
+					<token name="MeshType">3</token>
 					<string name="Name">Mesh</string>
 					<Vector3 name="Offset">
 						<X>0</X>
@@ -154,8 +127,8 @@ end</ProtectedString>
 					</Vector3>
 					<Vector3 name="Scale">
 						<X>6</X>
-						<Y>3</Y>
-						<Z>1</Z>
+						<Y>5.4000001</Y>
+						<Z>6.01000023</Z>
 					</Vector3>
 					<Content name="TextureId"><null></null></Content>
 					<Vector3 name="VertexColor">
