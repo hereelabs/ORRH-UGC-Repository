@@ -1,0 +1,41 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Hat" referent="RBX0">
+		<Properties>
+			<CoordinateFrame name="AttachmentPoint">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+			<string name="Name">FinoobHat</string>
+		</Properties>
+		<Item class="Script" referent="RBX1">
+			<Properties>
+				<bool name="Disabled">false</bool>
+				<Content name="LinkedSource"><null></null></Content>
+				<string name="Name">Script</string>
+				<ProtectedString name="Source">if script.Parent.Parent:FindFirstChild(&quot;Humanoid&quot;) then
+for i, v in ipairs (script.Parent.Parent:GetChildren()) do
+if v.ClassName == &quot;Part&quot; and not v:FindFirstChild(&quot;Mesh&quot;) then
+local mesh = script.Parent.Parent.Head.Mesh:Clone()
+mesh.Scale = Vector3.new(1,1,1)
+mesh.Parent = v
+end
+end
+end
+
+script.Parent:Remove()</ProtectedString>
+			</Properties>
+		</Item>
+	</Item>
+</roblox>

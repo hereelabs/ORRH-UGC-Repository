@@ -3,9 +3,10 @@
 	<External>nil</External>
 	<Item class="Hat" referent="RBX0">
 		<Properties>
+			<bool name="Archivable">true</bool>
 			<CoordinateFrame name="AttachmentPoint">
 				<X>0</X>
-				<Y>-3</Y>
+				<Y>0.400000006</Y>
 				<Z>0</Z>
 				<R00>1</R00>
 				<R01>0</R01>
@@ -17,36 +18,38 @@
 				<R21>0</R21>
 				<R22>1</R22>
 			</CoordinateFrame>
-			<string name="Name">Ruben Fresh Cut</string>
+			<string name="Name">UwU Hat</string>
 		</Properties>
 		<Item class="Part" referent="RBX1">
 			<Properties>
 				<bool name="Anchored">false</bool>
+				<bool name="Archivable">true</bool>
 				<float name="BackParamA">-0.5</float>
 				<float name="BackParamB">0.5</float>
 				<token name="BackSurface">0</token>
 				<token name="BackSurfaceInput">0</token>
 				<float name="BottomParamA">-0.5</float>
 				<float name="BottomParamB">0.5</float>
-				<token name="BottomSurface">4</token>
+				<token name="BottomSurface">0</token>
 				<token name="BottomSurfaceInput">0</token>
-				<int name="BrickColor">194</int>
+				<int name="BrickColor">1001</int>
 				<CoordinateFrame name="CFrame">
-					<X>0</X>
-					<Y>-2.5</Y>
-					<Z>0.5</Z>
-					<R00>1</R00>
-					<R01>0</R01>
-					<R02>0</R02>
-					<R10>0</R10>
-					<R11>1</R11>
-					<R12>0</R12>
-					<R20>0</R20>
-					<R21>0</R21>
-					<R22>1</R22>
+					<X>16.6036301</X>
+					<Y>2.19175363</Y>
+					<Z>-145.837845</Z>
+					<R00>0.0001308918</R00>
+					<R01>-0.632792711</R01>
+					<R02>0.774321198</R02>
+					<R10>1</R10>
+					<R11>0.000103831291</R11>
+					<R12>-8.41915607e-005</R12>
+					<R20>-2.71499157e-005</R20>
+					<R21>0.774321198</R21>
+					<R22>0.632792711</R22>
 				</CoordinateFrame>
-				<bool name="CanCollide">false</bool>
+				<bool name="CanCollide">true</bool>
 				<float name="Elasticity">0.5</float>
+				<token name="FormFactor">3</token>
 				<float name="Friction">0.300000012</float>
 				<float name="FrontParamA">-0.5</float>
 				<float name="FrontParamB">0.5</float>
@@ -56,7 +59,7 @@
 				<float name="LeftParamB">0.5</float>
 				<token name="LeftSurface">0</token>
 				<token name="LeftSurfaceInput">0</token>
-				<bool name="Locked">false</bool>
+				<bool name="Locked">true</bool>
 				<token name="Material">256</token>
 				<string name="Name">Handle</string>
 				<float name="Reflectance">0</float>
@@ -65,87 +68,46 @@
 				<token name="RightSurface">0</token>
 				<token name="RightSurfaceInput">0</token>
 				<Vector3 name="RotVelocity">
-					<X>0</X>
-					<Y>0</Y>
-					<Z>0</Z>
+					<X>7.48812963e-005</X>
+					<Y>0.00126670511</Y>
+					<Z>-2.1876437e-007</Z>
 				</Vector3>
 				<float name="TopParamA">-0.5</float>
 				<float name="TopParamB">0.5</float>
-				<token name="TopSurface">3</token>
+				<token name="TopSurface">0</token>
 				<token name="TopSurfaceInput">0</token>
 				<float name="Transparency">0</float>
 				<Vector3 name="Velocity">
-					<X>0</X>
-					<Y>0</Y>
-					<Z>0</Z>
+					<X>-0.00426124921</X>
+					<Y>-0.00532985153</Y>
+					<Z>-0.000474098721</Z>
 				</Vector3>
-				<token name="formFactorRaw">1</token>
 				<token name="shape">1</token>
 				<Vector3 name="size">
-					<X>1</X>
-					<Y>1.20000005</Y>
-					<Z>1</Z>
+					<X>2</X>
+					<Y>2</Y>
+					<Z>2</Z>
 				</Vector3>
 			</Properties>
 			<Item class="Decal" referent="RBX2">
 				<Properties>
+					<bool name="Archivable">true</bool>
 					<token name="Face">5</token>
 					<string name="Name">Decal</string>
 					<float name="Shiny">20</float>
 					<float name="Specular">0</float>
-					<Content name="Texture"><url>http://www.roblox.com/asset?id=10000000021</url></Content>
+					<Content name="Texture"><url>http://www.roblox.com/asset/?id=6895121503</url></Content>
 					<float name="Transparency">0</float>
 				</Properties>
 			</Item>
-			<Item class="Sound" referent="RBX3">
+			<Item class="BlockMesh" referent="RBX3">
 				<Properties>
-					<bool name="Looped">false</bool>
-					<string name="Name">Freshcut1</string>
-					<float name="Pitch">1</float>
-					<bool name="PlayOnRemove">false</bool>
-					<Content name="SoundId"><url>http://www.roblox.com/asset?id=10000000022</url></Content>
-					<float name="Volume">0.5</float>
-				</Properties>
-			</Item>
-			<Item class="Sound" referent="RBX4">
-				<Properties>
-					<bool name="Looped">false</bool>
-					<string name="Name">Freshcut2</string>
-					<float name="Pitch">1</float>
-					<bool name="PlayOnRemove">false</bool>
-					<Content name="SoundId"><url>http://www.roblox.com/asset?id=10000000023</url></Content>
-					<float name="Volume">0.5</float>
-				</Properties>
-			</Item>
-			<Item class="Script" referent="RBX5">
-				<Properties>
-					<bool name="Disabled">false</bool>
-					<Content name="LinkedSource"><null></null></Content>
-					<string name="Name">Script</string>
-					<ProtectedString name="Source">function isWorn()
-&#9;return script.Parent.Parent.Parent:FindFirstChild(&quot;Humanoid&quot;) ~= nil
-end
-
-while true do
-
-&#9;wait(math.random(60,100))
-
-&#9;if (isWorn()) then
-
-&#9;&#9;local name = &quot;Freshcut&quot; .. math.random(1,2)
-
-&#9;&#9;script.Parent:FindFirstChild(name):Play()
-&#9;end
-
-end</ProtectedString>
-				</Properties>
-			</Item>
-			<Item class="SpecialMesh" referent="RBX6">
-				<Properties>
+					<bool name="Archivable">true</bool>
+					<float name="Bevel">0</float>
+					<float name="Bevel Roundness">0</float>
+					<float name="Bulge">0</float>
 					<token name="LODX">2</token>
 					<token name="LODY">2</token>
-					<Content name="MeshId"><null></null></Content>
-					<token name="MeshType">6</token>
 					<string name="Name">Mesh</string>
 					<Vector3 name="Offset">
 						<X>0</X>
@@ -153,11 +115,10 @@ end</ProtectedString>
 						<Z>0</Z>
 					</Vector3>
 					<Vector3 name="Scale">
-						<X>6</X>
-						<Y>3</Y>
+						<X>1</X>
+						<Y>1</Y>
 						<Z>1</Z>
 					</Vector3>
-					<Content name="TextureId"><null></null></Content>
 					<Vector3 name="VertexColor">
 						<X>1</X>
 						<Y>1</Y>
